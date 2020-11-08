@@ -1,1 +1,1 @@
-Platform that gives people opportunity to connect with proffesionals from all areas of bussines.
+The main goal of the project is to implement a web application allowing the users (readers and administrators) to register and read different types of publications (books, papers, web resources) online, and share their unique personal points of view and ideas by annotating different publication sections with thoughtful comments
